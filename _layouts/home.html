@@ -32,19 +32,32 @@ layout: default
         {% else %}
           <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i> 18 99182 0260</a></li>
         {% endif %}
-
         
         {% if site.amazon %}
-          <li class="linkedin"><a href="https://amazon.com.br/shops/{{site.amazon}}" target="_blank"><i class="fab fa-amazon"></i> Soma Livros na amazon</a></li>
+          <li class="linkedin"><a href="https://amazon.com.br/shops/{{site.amazon}}" target="_blank"><i class="fab fa-amazon"></i> Amazon</a></li>
         {% else %}
-        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i> linkedin.com</a></li>
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://amazon.com.br/shops/{{site.amazon}}</a></li>
         {% endif %}
         
-        {% if site.twitter %}
-          <li class="twitter"><a href="https://twitter.com/{{site.twitter}}" target="_blank"><i class="fa fa-twitter"></i> {{site.twitter}}</a></li>
+        {% if site.facebook %}
+          <li class="linkedin"><a href="https://www.facebook.com/{{site.facebook}}" target="_blank"><i class="fas fa-facebook-f"></i>Facebook</a></li>
         {% else %}
-          <li class="twitter"><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> @artemsheludko_</a></li>
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://www.facebook.com/{{site.facebook}}</a></li>
         {% endif %}
+        
+         {% if site.instagram %}
+          <li class="linkedin"><a href="https://www.instagram.com/{{site.instagram}}" target="_blank"><i class="fab fa-instagram"></i>Facebook</a></li>
+        {% else %}
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://www.instagram.com/somalivros/</a></li>
+        {% endif %}
+        
+        {% if site.skoob %}
+          <li class="linkedin"><a href="https://www.skoob.com.br/perfil/{{site.skoob}}" target="_blank"><i class="fas fa-book"></i>Facebook</a></li>
+        {% else %}
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>href="https://www.skoob.com.br/perfil/{{site.skoob}}</a></li>
+        {% endif %}
+        
+        
 
       </ul>
     </div>
