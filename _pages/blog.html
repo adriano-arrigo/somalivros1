@@ -23,21 +23,21 @@ permalink: /blog/
             <!-- Whitespace added for readability -->
 {% assign m = post.date | date: "%-m" %}
 {% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
+  {% when '1' %}Janeiro
+  {% when '2' %}Fevereiro
+  {% when '3' %}Março
+  {% when '4' %}Abril
+  {% when '5' %}Maio
+  {% when '6' %}Junho
+  {% when '7' %}Julho
+  {% when '8' %}Agosto
+  {% when '9' %}Setembro
+  {% when '10' %}Outubro
+  {% when '11' %}Novembro
+  {% when '12' %}Dezembro
 {% endcase %}
 
-            {{ post.date | date: "%d" }}
+            {{ post.date | date: "%-d, %Y" }}
           </span>    
         </div>
 
