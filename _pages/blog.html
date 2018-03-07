@@ -21,8 +21,7 @@ permalink: /blog/
         <div class="article-list-footer">
           <span class="article-list-date divider">
             <!-- Whitespace added for readability -->
-{% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
@@ -36,7 +35,8 @@ permalink: /blog/
   {% when '10' %}Oktober
   {% when '11' %}November
   {% when '12' %}Dezember
-{% endcase %}{{ post.date | date: "%d de %B, %Y" }}
+{% endcase %}
+{{ post.date | date: "%d de %B, %Y" }}
          
         </div>
 
