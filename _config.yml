@@ -11,7 +11,7 @@ blog_theme: white # Or use dark
 # Profile information
 name: Soma Livros
 tagline: livros semi novos, usados e fora de estoque.
-about-description: Somos um sebo virtual desde 2017. Nossas transações são feitas na cidade de Birigui, interior de SP. Para saber os livros que compramos e os que não compramos, clique aqui.
+about-description: Somos um sebo virtual desde 2017. Nossas transações são feitas na cidade de Birigui, interior de São Paulo. Para saber os livros que compramos e os que não compramos, [clique aqui](https://aarrigo.github.io/somalivros1/quem-somos/).
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
