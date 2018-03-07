@@ -20,23 +20,7 @@ permalink: /blog/
         <p class="post-description">{{ post.description }}</p>
         <div class="article-list-footer">
           <span class="article-list-date divider">
-            <!-- Whitespace added for readability -->
-{% assign m = page.date | date: "%-m" %}
-{% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
-{% endcase %}
-{{ page.date | date: "%Y" }}
+            {{ post.date | date: "%B %-d, %Y" }}
           </span>    
         </div>
 
