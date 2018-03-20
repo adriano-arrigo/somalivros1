@@ -7,7 +7,7 @@ layout: default
     <i class="fas fa-calendar-alt" aria-hidden="true"></i>
     <!-- Whitespace added for readability -->
 {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{{ page.date | date: '%-d de %B, %Y' }}
 {% case m %}
   {% when '1' %}Janeiro
   {% when '2' %}Fevereiro
