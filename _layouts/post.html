@@ -6,8 +6,7 @@ layout: default
   <span class="page-list-date">
     <i class="fas fa-calendar-alt" aria-hidden="true"></i>
     <!-- Whitespace added for readability -->
-{% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%d" }}
+{% assign m = post.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Janeiro
   {% when '2' %}Fevereiro
@@ -22,7 +21,8 @@ layout: default
   {% when '11' %}Novembro
   {% when '12' %}Dezembro
 {% endcase %}
-{{ page.date | date: "%-d, %Y" }}
+
+{{ post.date | date: "%-d, %Y" }}
   </span>
 </div>
 <div class="post-container">
