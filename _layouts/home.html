@@ -20,6 +20,12 @@ layout: default
     </div>
     <div class="contact-contaiver">
       <ul class="contact-list">
+        
+           {% if site.amazon %}
+          <li class="linkedin"><a href="https://docs.google.com/spreadsheets/d/1aTH34DxcmNV_0uSNpcfjMxHAULzdFVy85RKOAQom_KY/edit#gid=0" target="_blank"><i class="fas fa-list-ol"></i> Lista completa de livros</a></li>
+        {% else %}
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://amazon.com.br/shops/{{site.amazon}}</a></li>
+        {% endif %}
 
         {% if site.email %}
           <li class="email"><a href="mailto:{{site.email}}"><i class="fas fa-envelope"></i> {{site.email}}</a></li>
