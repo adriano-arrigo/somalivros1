@@ -21,7 +21,7 @@ O livro lançado originalmente em 1981 sobre o nome de Livro de Histórias cont�
 Com uma edição de aspectos artesanais, 42 Haicais e 7 Ilustrações é um livro simples, de tons quase infantis, mas carregado de profundos sentimentos escrito e ilustrado por dois jornalistas brasileiros. 
 
 
-Compre esses livros e muitos outros diretamente da nossa loja Amazon: (www.amazon.com.br/shops/somalivros)
+Compre esses livros e muitos outros diretamente da nossa loja Amazon: [www.amazon.com.br/shops/somalivros](www.amazon.com.br/shops/somalivros)
 
 ---
 *crédito da imagem: The British Library. Sem direitos autorais.*
