@@ -15,6 +15,9 @@ tags:       [astronomia, haicai, literatura brasileira, neil degrasse tyson, jo�
 Todo mês, a **Soma Livros** selecionará os destaques que chegaram em nosso acervo. Nesse primeiro mês, o destaque é um livro de astronomia e dois brasileiros, um de haicai e outro de contos.
 Lembrando que caso queira compra-los, acesse o endereço no final do post ou entre em [contato diretamente conosco](mailto:somalivros@gmail.com).
 
+<p align="center">
+  <img src="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9354772&qld=90&l=430&a=-1" width="120px" height="173px"/></p>
+
 ### Neil deGrasse Tyson – Morte no Buraco Negro e Outros Dilemas Cósmicos (2016, editora Planeta)
 
 Mais conhecido por apresentar a renomada série *Cosmos*, o cientista Neil deGrasse Tyson traz nesse livro um compilado de pequenos ensaios divididos em sete seções de temas variados que vão desde importância da antimatéria até a representação de extraterrestres por Hollywood. 
