@@ -16,7 +16,7 @@ Todo mês, a **Soma Livros** selecionará os destaques que chegaram em nosso ace
 Lembrando que caso queira compra-los, acesse o endereço no final do post ou entre em [contato diretamente conosco](mailto:somalivros@gmail.com).
 
 <p align="center">
-  <img src="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9354772&qld=90&l=430&a=-1" width="120px" height="173px"/></p>
+  <img src="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9354772&qld=90&l=430&a=-1"></p>
 
 ### Neil deGrasse Tyson – Morte no Buraco Negro e Outros Dilemas Cósmicos (2016, editora Planeta)
 
