@@ -7,6 +7,7 @@ baseurl: "/somalivros1" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: white # Or use dark
+markdown: kramdown
 
 # Profile information
 name: Soma Livros
