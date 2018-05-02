@@ -6,7 +6,7 @@ img: ABRIL-CORTADO.jpg
 header-img: "ABRIL-CORTADO.jpg"
 date:   2018-05-01 18:54:34 -3
 categories: destaques mês
-tags:       [astronomia, haicai, literatura brasileira, neil degrasse tyson, joão ubaldo ribeiro, alfaguara, planeta, lote 42]
+tags:       [astronomia, haicai, literatura brasileira, neil degrasse tyson, joão ubaldo ribeiro, editora alfaguara, editora planeta, lote 42]
 ---
 
 
