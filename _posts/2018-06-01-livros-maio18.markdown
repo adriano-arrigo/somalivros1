@@ -2,8 +2,8 @@
 layout: post
 title:  "Destaques Soma Livros: Maio"
 description: Esse mês os destaque são livros da época de ouro da ficcção científica americana.
-img: capa-maio.png
-header-img: "capa-maio.png"
+img: maio-capa.png
+header-img: "maio-capa.png"
 date:   2018-06-02 18:54:34 -3
 categories: destaques mês
 tags: [ficção científica, sci-fi, geografia, pós-modernismo]
@@ -18,11 +18,11 @@ Lembrando que caso queira comprá-los, acesse o endereço no final do post ou en
 
 ### Edward W. Soja – Geografias Pós-modernas (1993, editora Zahar)
 
-Lançado originalmente em 1989, o renomado geógrafo Edward W. Soja discute nesse livro as barreiras geografias pela ótica da visão marxista. Livro interdisciplinar de ciências sociais.
+Lançado originalmente em 1989, o renomado geógrafo americano Edward W. Soja discute nesse livro as barreiras geografias pela ótica da visão marxista.
 
 ### James Blish – Um Caso de Consciência (1963, editora GRD)
 
-Livro do escritor americano que já escreveu para a série *Star Trek* mostra um futuro em que seres humanos moram no subterrâneos da terra e que são confrontados por uma raça aliegina moralmente perfeita. 
+James Blish, também conhecido por escrever para a série *Star Trek*, mostra aqui um futuro em que seres humanos moram no subterrâneos da terra e que são confrontados por uma raça alienigina moralmente perfeita. 
 
 ### Daniel F. Galouye – Os Invasores Andam Entre Nós (1963, editora Brugera)
 
