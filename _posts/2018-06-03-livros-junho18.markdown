@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Destaques Soma Livros: junho"
-description: Esse mês, o destaque fica pela maior obra de Kafka.
+description: Esse mês, o destaque fica pela maior obra de Kafka, um de terror e uma coletânea de palestras de Umberto Eco.
+img: JUNHO-CORTADO.jpg
 header-img: "JUNHO-CORTADO.jpg"
 date:   2018-06-03 12:00:34 -3
 categories: destaques mês
