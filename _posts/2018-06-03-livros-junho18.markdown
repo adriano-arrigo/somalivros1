@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Destaques Soma Livros: junho"
-description: Esse mês o destaque fica por conta do livro de crônicas do cientista Neil deGrasse Tyson.
-img: JUNHO-CORTADO.jpg
+description: Esse mês, o destaque fica pela maior obra de Kafka.
 header-img: "JUNHO-CORTADO.jpg"
 date:   2018-06-03 12:00:34 -3
 categories: destaques mês
@@ -22,7 +21,7 @@ Dispensando apresentações, o livro de Kafka não é só um clássico da litera
 
 ###  Stefan Jaworzyn - O Massavre da Serra Elétrica (2016, Darkside)
 
-Compliado de entrevistas, imagens e depoimentos, esse livro com edição caprichada da Darkside mostra os bastidores de um dos maiores ícones do *slasher* dos anos 80.
+Compilado de entrevistas, imagens e depoimentos, esse livro com edição caprichada da Darkside mostra os bastidores de um dos maiores ícones do *slasher* dos anos 80.
 
 ### Seis Passeios pelos Bosques da Ficção (2012, Companhia das Letras)
 
