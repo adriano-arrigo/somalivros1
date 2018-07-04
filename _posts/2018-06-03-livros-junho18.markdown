@@ -24,9 +24,9 @@ Dispensando apresentações, o livro de Kafka não é só um clássico da litera
 
 Compilado de entrevistas, imagens e depoimentos, esse livro com edição caprichada da Darkside mostra os bastidores de um dos maiores ícones do *slasher* dos anos 80.
 
-### Seis Passeios pelos Bosques da Ficção (2012, Companhia das Letras)
+### Umberto Eco - Seis Passeios pelos Bosques da Ficção (2012, Companhia das Letras)
 
-Para quem gosta de escrever, nesse livro Umberto Eco investiga as origens e os desodobramentos das ficções, tanto clássicas quanto comtemporâneas.  
+Para quem gosta de escrever, nesse livro Umberto Eco investiga as origens e os desodobramentos das ficções, tanto clássicas quanto contemporâneas.  
 
 
 Compre esses livros e muitos outros diretamente da nossa loja Amazon: [www.amazon.com.br/shops/somalivros](www.amazon.com.br/shops/somalivros)
