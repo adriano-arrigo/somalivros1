@@ -29,7 +29,7 @@ Compilado de entrevistas, imagens e depoimentos, esse livro com edição caprich
 Para quem gosta de escrever, nesse livro Umberto Eco investiga as origens e os desodobramentos das ficções, tanto clássicas quanto contemporâneas.  
 
 
-Compre esses livros e muitos outros diretamente da nossa loja Amazon [clicando aqui](www.amazon.com.br/shops/somalivros).
+Compre esses livros e muitos outros diretamente da nossa loja Amazon [clicando aqui](http://www.amazon.com.br/shops/somalivros).
 
 
 ---
