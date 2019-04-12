@@ -21,8 +21,20 @@ layout: default
     <div class="contact-contaiver">
       <ul class="contact-list">
         
+        {% if site.estantevirtual %}
+          <li class="linkedin"><a href="https://www.estantevirtual.com.br/somalivros"><i class="fas fa-list-ol"></i> Compre pela Estante Virtual</a></li>
+        {% else %}
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fas fa-book" aria-hidden="true"></i>https://amazon.com.br/shops/{{site.amazon}}</a></li>
+        {% endif %}
+        
+         {% if site.amazon %}
+         <li class="linkedin"><a href="https://amazon.com.br/shops/{{site.amazon}}" target="_blank"><i class="fab fa-amazon"></i> Compre pela Amazon</a></li>
+        {% else %}
+        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://amazon.com.br/shops/{{site.amazon}}</a></li>
+        {% endif %}
+        
            {% if site.listalivros %}
-          <li class="linkedin"><a href="https://docs.google.com/spreadsheets/d/1aTH34DxcmNV_0uSNpcfjMxHAULzdFVy85RKOAQom_KY/edit#gid=0" target="_blank"><i class="fas fa-list-ol"></i> Lista completa de livros</a></li>
+          <li class="linkedin"><a href="https://listium.com/@somalivros/42197/acervo-soma-livros" target="_blank"><i class="fas fa-list-ol"></i>Nosso acervo</a></li>
         {% else %}
         <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://amazon.com.br/shops/{{site.amazon}}</a></li>
         {% endif %}
@@ -38,13 +50,7 @@ layout: default
         {% else %}
           <li class="phone"><a href="tel:044 825 5523"><i class="fa fa-phone" aria-hidden="true"></i> 18 99182 0260</a></li>
         {% endif %}
-        
-        {% if site.amazon %}
-          <li class="linkedin"><a href="https://amazon.com.br/shops/{{site.amazon}}" target="_blank"><i class="fab fa-amazon"></i> Amazon</a></li>
-        {% else %}
-        <li class="linkedin"><a href="https://in.linkedin.com/" target="_blank"><i class="fab fa-amazon" aria-hidden="true"></i>https://amazon.com.br/shops/{{site.amazon}}</a></li>
-        {% endif %}
-        
+             
         {% if site.facebook %}
           <li class="linkedin"><a href="https://www.facebook.com/{{site.facebook}}" target="_blank"><i class="fab fa-facebook-f"></i> Facebook</a></li>
         {% else %}
