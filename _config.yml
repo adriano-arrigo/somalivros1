@@ -8,6 +8,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 blog_theme: white # Or use dark
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
 
 # Profile information
 name: Soma Livros
