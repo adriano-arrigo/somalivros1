@@ -10,7 +10,7 @@ A Soma Livros é um sebo virtual que começou suas atividades em agosto de 2017.
 
 ### Onde ficamos
 
-Por enquanto, não possuímos uma loja física. Nossas transações são feitas na cidade de Birigui, interior de SP.
+Por enquanto, não possuímos uma loja física. Nossas transações são feitas na cidade de Bauru, interior de SP.
 
 ### O que vendemos
 
@@ -18,7 +18,7 @@ Nossa especialidade são livros usados, fora de estoque e raros no mercado brasi
 
 ### O que compramos
 
-Temos interesse em livros de vários gêneros, como literatura estrangeira e nacional, ficção científica, artes e teóricos em geral. Compramos livros em lote e buscamos em cas nas proximidades de Araçatuba/SP e na cidade de Bauru/SP. Aceitamos doações também.
+Temos interesse em livros de vários gêneros, como literatura estrangeira e nacional, ficção científica, artes e teóricos em geral. Compramos livros em lote e buscamos em cas nas proximidades da cidade de Bauru/SP. Aceitamos doações também.
 
 Você pode enviar as fotos dos seus livros diretamente para nosso Whatsapp pelo número [18 991820260](tel:18 991820260).
 
