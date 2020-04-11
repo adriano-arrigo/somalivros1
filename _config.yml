@@ -1,6 +1,6 @@
 title: Soma Livros
 description: > # this means to ignore newlines until "baseurl:"
-  Somos um sebo virtual desde 2017. Nossas transações são feitas na cidade de Birigui, interior de São Paulo.
+  Somos um sebo virtual desde 2017. Nossas transações são feitas na cidade de Bauru, interior de São Paulo.
 baseurl: "/somalivros1" # the subpath of your site, e.g. /blog
 url: "https://aarrigo.github.io/somalivros1/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
@@ -12,7 +12,7 @@ plugins:
 # Profile information
 name: Soma Livros
 tagline: livros semi novos, usados e fora de estoque.
-about-description: Somos um sebo virtual desde 2017. Nossas transações são feitas na cidade de Birigui, interior de São Paulo. Para saber os livros que compramos e os que não compramos, <a href="quem-somos">clique aqui</a>. 
+about-description: Somos um sebo virtual desde 2017. Nossas transações são feitas na cidade de Bauru, interior de São Paulo. Para saber os livros que compramos e os que não compramos, <a href="quem-somos">clique aqui</a>. 
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
@@ -27,7 +27,7 @@ skoob: somalivros
 amazon: somalivros
 instagram: somalivros
 facebook: somalivros
-listalivros: https://listium.com/@somalivros/42197/acervo-soma-livros
+listalivros: http://bit.ly/acervo-soma
 
 
 # Tracker
